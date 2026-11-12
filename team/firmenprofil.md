@@ -9,26 +9,25 @@
 - **Intern (nicht nach außen kommunizieren):** Inhaber + Freelancer (persönliche 24/7-Kundenbetreuung, 50 €/Monat) + KI-Agent, der 24/7 für Kunden erreichbar ist. Bei mehr Kunden wird vergrößert.
 - **Nach außen:** Es wird **nirgends** erwähnt, dass Sko Logistik Angestellte, Personal, Mitarbeiter oder ein Team hat (keine Teamgröße, kein „Schichtbetrieb“, keine „Stammbelegschaft“). Formulierungen stattdessen: „Sko Logistik“, „wir“, „Ihr persönlicher Ansprechpartner“.
 - **Website:** Sko Logistik Website (Entwurf als Claude-Artefakt) – öffentliche Adresse: [Website-URL]
-- **Instagram:** [@handle]
-- **Kontakt für Kunden:** [Telefonnummer], [E-Mail-Adresse], [Straße, PLZ Ort]
-- **Antwortzeit auf Anfragen:** [z. B. innerhalb von 24 Stunden]
+- **Instagram:** @sko.logistik (neu, noch leer – wird von `instagram-marketing` aufgebaut)
+- **Kontakt für Kunden:** Tel. 0176 92213159 · E-Mail: [neue Sko-Logistik-Adresse folgt] · Bruchhausen-Vilsen (keine Straße veröffentlichen)
+- **Antwortzeit auf Anfragen:** innerhalb von 24 Stunden
 
 ## Leistungen (3PL / Fulfillment)
 Wir übernehmen für Onlineshops und B2B-Händler alles nach der Bestellung:
 - **Wareneingang:** Prüfung, Zählung, Einlagerung
 - **Lagerung:** Palette, Fachboden oder Kleinteile – flexibel, ohne lange Vertragsbindung
 - **Pick & Pack:** Kommissionierung und Verpackung, auf Wunsch mit Beilagen, Branding, Geschenkverpackung
-- **Versand national & international** mit Sendungsverfolgung über [Versanddienstleister, z. B. DHL/DPD/GLS] – B2C-Pakete und B2B-Paletten
+- **Versand national & international** mit Sendungsverfolgung über **DHL** – B2C-Pakete und B2B-Paletten
 - **Retourenmanagement:** prüfen, dokumentieren, wieder einlagern – Kunde entscheidet über aufbereiten/aussortieren
-- **Shop-Anbindung:** [Shopsysteme / Marktplätze, z. B. Shopify, WooCommerce, Amazon]
+- **Shop-Anbindung:** mehrere Shopsysteme/Marktplätze – Software wird gerade ausgewählt [Liste folgt]
 - **Value Added Services:** Etikettierung, Set-Bildung, Umpacken, Qualitätskontrolle
 
 **Wichtig:** Sko Logistik hat **keine eigenen Fahrer** und macht keine Transporte/Touren. Der Versand läuft über Paketdienste/Speditionen.
 
 ## Unsere Stärken (USP)
 1. **Persönlicher Ansprechpartner, 24/7 – kostenlos inklusive:** Jeder Kunde bekommt einen festen, persönlichen Ansprechpartner, der rund um die Uhr für ihn da ist. Dafür wird nichts extra berechnet.
-2. **Versand innerhalb von 24 Stunden** nach Bestelleingang.
-   - Hinweis: Auf der Website steht „Versand am selben Tag bis [Uhrzeit]“. Bis das geklärt ist, versprechen die Agenten nur **„Versand innerhalb von 24 Stunden“**.
+2. **Versand innerhalb von 24 Stunden** nach Bestelleingang (entschieden; kein „Versand am selben Tag“ versprechen).
 3. **Warenkontrolle vor dem Versand:** Wareneingang wird mit dem Lieferschein abgeglichen, Schäden mit Fotos dokumentiert, jede Bestellung wird vor dem Verschließen noch einmal geprüft.
 4. **Sofortige Benachrichtigung**, wenn etwas nicht stimmt (Fehlmengen, Falschlieferung, Schaden) – der Kunde erfährt es von uns, nicht von seinen Kunden. Ziel: Der Endkunde erhält immer einwandfreie Ware.
 5. **Auch für kleine Betriebe:** keine Mindestmengen-Hürde wie bei großen Fulfillern, keine eigenen Fixkosten für Lager, Personal oder Software. Mindestmenge: [z. B. ab X Bestellungen/Monat oder keine].
@@ -50,12 +49,16 @@ Richtwerte aus dem Kostenrechner der Website (zzgl. MwSt. und Versandkosten, unv
 
 Regeln:
 - Genaue Preise gibt es **nur im individuellen Angebot** nach einem Gespräch.
-- **Rabattspielraum für Deal Closer:** [z. B. max. 5 % ohne Rücksprache – bis zur Festlegung: 0 %, jeder Rabatt braucht Freigabe]
+- **Rabattspielraum für Deal Closer (Empfehlung Berater, 12.11.2026):**
+  - Standard: **keine Prozent-Rabatte** – wir verkaufen über Service, nicht über Preis.
+  - Erlaubt ohne Rücksprache: **erster Monat Lagerplatz kostenlos** als Testangebot (Einrichtung ist ohnehin 0 €).
+  - Erlaubt ohne Rücksprache: **bis 5 % auf Pick & Pack** bei 12 Monaten Laufzeit **oder** ab 1.000 Bestellungen/Monat.
+  - Alles darüber: `[FREIGABE INHABER NÖTIG]`.
 - **Zahlungsbedingungen:** [z. B. 14 Tage netto]
 - **Vertragslaufzeit:** keine lange Vertragsbindung, Details: [Kündigungsfrist]
 
 ## Tonalität
-- **Ansprache:** Sie (B2B); auf Instagram: [Du oder Sie]
+- **Ansprache:** Sie (E-Mail, Angebote, Website); auf Instagram: **Du**
 - **Stil:** persönlich, zuverlässig, bodenständig, direkt – wir kümmern uns wirklich, kein anonymer Großkonzern
 - **No-Gos:**
   - Keine Angaben zu Angestellten, Mitarbeiterzahl, Team oder Personal
