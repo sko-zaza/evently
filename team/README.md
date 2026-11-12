@@ -2,7 +2,7 @@
 
 | Agent | Name | Rolle |
 |---|---|---|
-| `kundenservice` | Lena | Kundenanfragen, Sendungsstatus, Reklamationen, Beschwerden |
+| `kundenservice` | Lena | Kundenanfragen, Sendungsstatus, Meldungen aus der Warenkontrolle, Reklamationen |
 | `kundengewinnung` | Jonas | Leads recherchieren, Erstansprache, Follow-ups |
 | `deal-closer` | Mara | Angebote, Verhandlung, Einwände, Abschluss |
 | `instagram-marketing` | Sami | Redaktionsplan, Posts/Reels, Captions, Community |
