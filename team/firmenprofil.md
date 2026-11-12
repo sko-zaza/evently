@@ -8,9 +8,9 @@
 - **Standort:** Bruchhausen-Vilsen (Niedersachsen)
 - **Intern (nicht nach außen kommunizieren):** Inhaber + Freelancer (persönliche 24/7-Kundenbetreuung, 50 €/Monat) + KI-Agent, der 24/7 für Kunden erreichbar ist. Bei mehr Kunden wird vergrößert.
 - **Nach außen:** Es wird **nirgends** erwähnt, dass Sko Logistik Angestellte, Personal, Mitarbeiter oder ein Team hat (keine Teamgröße, kein „Schichtbetrieb“, keine „Stammbelegschaft“). Formulierungen stattdessen: „Sko Logistik“, „wir“, „Ihr persönlicher Ansprechpartner“.
-- **Website:** Sko Logistik Website (Entwurf als Claude-Artefakt) – öffentliche Adresse: [Website-URL]
+- **Website:** https://sko-logistik.de (Dateien im Ordner `website/`, Hosting bei IONOS)
 - **Instagram:** @sko.logistik (neu, noch leer – wird von `instagram-marketing` aufgebaut)
-- **Kontakt für Kunden:** Tel. 0176 92213159 · E-Mail: [neue Sko-Logistik-Adresse folgt] · Bruchhausen-Vilsen (keine Straße veröffentlichen)
+- **Kontakt für Kunden:** Tel. 0176 92213159 · E-Mail: info@sko-logistik.de · Bruchhausen-Vilsen (keine Straße veröffentlichen)
 - **Antwortzeit auf Anfragen:** innerhalb von 24 Stunden
 
 ## Leistungen (3PL / Fulfillment)
