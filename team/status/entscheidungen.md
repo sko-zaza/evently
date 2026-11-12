@@ -7,7 +7,7 @@ Format: Datum · Thema · Empfehlung Berater · Entscheidung Inhaber
 - **Entscheidung Inhaber:** offen
 
 - 12.11.2026 · Preisliste komplett (Vorschlag Berater) · Entscheidung Inhaber: offen
-  - Servicepauschale „Persönliche 24/7-Betreuung“: 99 €/Monat je Kunde (Kosten Freelancer 50 € → Annahme: je Kunde/Monat; deckt zusätzlich KI-Agent, Verwaltung, Ausfälle). Einstieg für sehr kleine Shops (< 100 Bestellungen/Monat): 69 €.
+  - Servicepauschale „Persönliche 24/7-Betreuung“: 99 €/Monat je Kunde (Kosten Freelancer 50 € – Annahme je Kunde/Monat war falsch, siehe unten; deckt zusätzlich KI-Agent, Verwaltung, Ausfälle). Einstieg für sehr kleine Shops (< 100 Bestellungen/Monat): 69 €.
   - Wareneingang: 6,50 €/Palette · 2,50 €/Karton
   - Fachbodenplatz: 2,50 €/Monat · Kleinteilfach: 1,00 €/Monat
   - Retoure: 3,50 € (statt 2,90 €)
@@ -20,4 +20,5 @@ Format: Datum · Thema · Empfehlung Berater · Entscheidung Inhaber
   - Hinweis: Marktspannen nur grob belegt (Blogs, Preisliste 2024); Werte ohne Marktquelle (Material, Beilagen, Stundensatz, Q4) sind Schätzungen.
 
 - 12.11.2026 · Servicepauschale · Entscheidung Inhaber: **Persönliche 24/7-Betreuung bleibt kostenlos** (Verkaufsargument). Die 99-€-Pauschale aus dem Vorschlag entfällt.
-  - Hinweis Berater: Kosten Freelancer 50 €/Kunde/Monat müssen über die übrigen Preise gedeckt werden. Bei 200 Bestellungen/Monat ≈ 0,25 €/Bestellung. Bei sehr kleinen Kunden (< 50 Bestellungen) übersteigen die Betreuungskosten schnell die Marge → ggf. kleinen Mindestumsatz prüfen.
+  - Korrektur: Freelancer kostet **50 € pro Monat insgesamt** (nicht pro Kunde). Die Kosten sind damit vernachlässigbar, kein Mindestumsatz nötig.
+  - Hinweis Berater: Prüfen, ob 24/7-Erreichbarkeit mit diesem Freelancer bei wachsender Kundenzahl realistisch ist (Vertretung, Reaktionszeit) und ob die Zusammenarbeit rechtlich sauber ist (Scheinselbstständigkeit, ggf. Steuerberater fragen).
