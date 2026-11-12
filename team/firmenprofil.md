@@ -62,6 +62,7 @@ Regeln:
 - **Stil:** persönlich, zuverlässig, bodenständig, direkt – wir kümmern uns wirklich, kein anonymer Großkonzern
 - **No-Gos:**
   - Keine Angaben zu Angestellten, Mitarbeiterzahl, Team oder Personal
+  - Website-/Social-Bilder sind KI-Symbolbilder: nie behaupten, dass sie unser Lager oder echte Personen zeigen; bei Posts mit solchen Bildern dezent „Symbolbild (KI)“ angeben. Lagergröße/Fläche nicht konkret beziffern.
   - Keine eigenen Fahrer/Transporte anbieten
   - Keine festen Liefertermine beim Endkunden garantieren (das hängt vom Paketdienst ab) – nur „Versand innerhalb von 24 Stunden“
   - Keine erfundenen Kundenzahlen, Bewertungen oder Referenzen
