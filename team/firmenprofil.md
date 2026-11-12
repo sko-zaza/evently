@@ -6,7 +6,8 @@
 ## Unternehmen
 - **Firmenname:** Sko Logistik
 - **Standort:** Bruchhausen-Vilsen (Niedersachsen)
-- **Team:** 5 Personen + Freelancer (übernehmen die persönliche 24/7-Kundenbetreuung), zusätzlich ein KI-Agent, der 24/7 für Kunden erreichbar ist
+- **Intern (nicht nach außen kommunizieren):** Inhaber + Freelancer (persönliche 24/7-Kundenbetreuung, 50 €/Monat) + KI-Agent, der 24/7 für Kunden erreichbar ist. Bei mehr Kunden wird vergrößert.
+- **Nach außen:** Es wird **nirgends** erwähnt, dass Sko Logistik Angestellte, Personal, Mitarbeiter oder ein Team hat (keine Teamgröße, kein „Schichtbetrieb“, keine „Stammbelegschaft“). Formulierungen stattdessen: „Sko Logistik“, „wir“, „Ihr persönlicher Ansprechpartner“.
 - **Website:** Sko Logistik Website (Entwurf als Claude-Artefakt) – öffentliche Adresse: [Website-URL]
 - **Instagram:** [@handle]
 - **Kontakt für Kunden:** [Telefonnummer], [E-Mail-Adresse], [Straße, PLZ Ort]
@@ -25,7 +26,7 @@ Wir übernehmen für Onlineshops und B2B-Händler alles nach der Bestellung:
 **Wichtig:** Sko Logistik hat **keine eigenen Fahrer** und macht keine Transporte/Touren. Der Versand läuft über Paketdienste/Speditionen.
 
 ## Unsere Stärken (USP)
-1. **Persönlicher Ansprechpartner, 24/7 – kostenlos inklusive:** Jeder Kunde bekommt einen festen, persönlichen Mitarbeiter zugeteilt, der rund um die Uhr für ihn da ist. Dafür wird nichts extra berechnet.
+1. **Persönlicher Ansprechpartner, 24/7 – kostenlos inklusive:** Jeder Kunde bekommt einen festen, persönlichen Ansprechpartner, der rund um die Uhr für ihn da ist. Dafür wird nichts extra berechnet.
 2. **Versand innerhalb von 24 Stunden** nach Bestelleingang.
    - Hinweis: Auf der Website steht „Versand am selben Tag bis [Uhrzeit]“. Bis das geklärt ist, versprechen die Agenten nur **„Versand innerhalb von 24 Stunden“**.
 3. **Warenkontrolle vor dem Versand:** Wareneingang wird mit dem Lieferschein abgeglichen, Schäden mit Fotos dokumentiert, jede Bestellung wird vor dem Verschließen noch einmal geprüft.
@@ -55,8 +56,9 @@ Regeln:
 
 ## Tonalität
 - **Ansprache:** Sie (B2B); auf Instagram: [Du oder Sie]
-- **Stil:** persönlich, zuverlässig, bodenständig, direkt – wir sind ein kleines Team, das sich wirklich kümmert, kein anonymer Großkonzern
+- **Stil:** persönlich, zuverlässig, bodenständig, direkt – wir kümmern uns wirklich, kein anonymer Großkonzern
 - **No-Gos:**
+  - Keine Angaben zu Angestellten, Mitarbeiterzahl, Team oder Personal
   - Keine eigenen Fahrer/Transporte anbieten
   - Keine festen Liefertermine beim Endkunden garantieren (das hängt vom Paketdienst ab) – nur „Versand innerhalb von 24 Stunden“
   - Keine erfundenen Kundenzahlen, Bewertungen oder Referenzen
@@ -66,7 +68,7 @@ Regeln:
 - **Was kostet das?** → Richtwerte siehe oben bzw. Kostenrechner auf der Website, genaues Angebot nach kurzem Gespräch.
 - **Ab wie vielen Bestellungen lohnt sich das?** → Wir arbeiten auch mit kleinen Betrieben. [Mindestmenge ergänzen]
 - **Wie schnell wird versendet?** → Innerhalb von 24 Stunden nach Bestelleingang.
-- **Wer ist mein Ansprechpartner?** → Ein fester persönlicher Mitarbeiter, 24/7 erreichbar.
+- **Wer ist mein Ansprechpartner?** → Ein fester persönlicher Ansprechpartner, 24/7 erreichbar.
 - **Was passiert, wenn Ware beschädigt ankommt oder etwas fehlt?** → Wir prüfen beim Wareneingang und vor dem Versand und melden uns sofort mit Fotos. Sie entscheiden, wie es weitergeht.
 - **Wo ist meine Sendung?** → Jede Sendung hat eine Sendungsverfolgung. [Wie bekommt der Kunde den Link?]
 - **Wie schnell können wir starten?** → In wenigen Tagen: Ware anliefern, Shop verbinden, loslegen.
