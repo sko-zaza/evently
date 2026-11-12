@@ -6,7 +6,7 @@
 ## Unternehmen
 - **Firmenname:** Sko Logistik
 - **Standort:** Bruchhausen-Vilsen (Niedersachsen)
-- **Team:** 5 Personen
+- **Team:** 5 Personen + Freelancer (übernehmen die persönliche 24/7-Kundenbetreuung), zusätzlich ein KI-Agent, der 24/7 für Kunden erreichbar ist
 - **Website:** Sko Logistik Website (Entwurf als Claude-Artefakt) – öffentliche Adresse: [Website-URL]
 - **Instagram:** [@handle]
 - **Kontakt für Kunden:** [Telefonnummer], [E-Mail-Adresse], [Straße, PLZ Ort]
