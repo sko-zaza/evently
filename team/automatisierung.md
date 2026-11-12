@@ -62,3 +62,19 @@ Du arbeitest als Sami (Instagram-Marketing) für Sko Logistik, Instagram @sko.lo
 - **Gespräche, Angebote unterschreiben, Verträge.**
 - **Reklamationen, Schäden, Rabatte** – Lena legt sie dir als Entwurf hin.
 - **Die echte Lagerarbeit** – Ware annehmen, packen, an DHL übergeben.
+
+---
+
+## 3. Website automatisch von GitHub zu IONOS (ohne manuelles Hochladen)
+
+Jede Änderung im Ordner `website/` wird automatisch per SFTP in den IONOS-Ordner `/public` hochgeladen (GitHub Actions, Datei `.github/workflows/website-deploy.yml`).
+
+**Einmalig einrichten (ca. 5 Min.):**
+1. IONOS → Webhosting → **SFTP** → „Einrichten“ → einen SFTP-Benutzer anlegen. Notiere **Server (Host)**, **Benutzername** und **Passwort**.
+2. GitHub → Repository `sko-zaza/evently` → **Settings → Secrets and variables → Actions → New repository secret**. Drei Secrets anlegen:
+   - `IONOS_SFTP_HOST` – der Server, z. B. `access-123456789.webspace-host.com` (ohne `sftp://`)
+   - `IONOS_SFTP_USER` – der SFTP-Benutzername
+   - `IONOS_SFTP_PASSWORD` – das SFTP-Passwort
+3. Test: GitHub → **Actions → „Website zu IONOS hochladen“ → Run workflow** (Branch `claude/logistics-team-setup-dqan3p`). Grüner Haken = fertig.
+
+Das Passwort niemals in den Chat schreiben – nur in GitHub-Secrets.

@@ -1,0 +1,53 @@
+name: Website zu IONOS hochladen
+
+on:
+  push:
+    branches: [main, claude/logistics-team-setup-dqan3p]
+    paths: ["website/**"]
+  workflow_dispatch:
+
+concurrency:
+  group: website-deploy
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Zugangsdaten prüfen
+        env:
+          HOST: ${{ secrets.IONOS_SFTP_HOST }}
+          USER: ${{ secrets.IONOS_SFTP_USER }}
+          PASS: ${{ secrets.IONOS_SFTP_PASSWORD }}
+        run: |
+          if [ -z "$HOST" ] || [ -z "$USER" ] || [ -z "$PASS" ]; then
+            echo "::error::Secrets IONOS_SFTP_HOST, IONOS_SFTP_USER und IONOS_SFTP_PASSWORD fehlen (Repository → Settings → Secrets and variables → Actions)."
+            exit 1
+          fi
+
+      - name: lftp installieren
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq lftp
+
+      - name: Dateien nach /public hochladen
+        env:
+          HOST: ${{ secrets.IONOS_SFTP_HOST }}
+          USER: ${{ secrets.IONOS_SFTP_USER }}
+          PASS: ${{ secrets.IONOS_SFTP_PASSWORD }}
+        run: |
+          lftp -e "
+            set sftp:auto-confirm yes;
+            set net:max-retries 3;
+            set net:timeout 30;
+            open -u \"$USER\",\"$PASS\" sftp://$HOST;
+            mirror --reverse --verbose --only-newer --include-glob '*.html' website/ public/;
+            bye
+          "
+
+      - name: Prüfen, ob die Seite erreichbar ist
+        run: |
+          sleep 5
+          code=$(curl -s -o /dev/null -w '%{http_code}' https://sko-logistik.de/)
+          echo "sko-logistik.de antwortet mit HTTP $code"
+          [ "$code" = "200" ] || { echo "::warning::Seite antwortet nicht mit 200 – bitte im Browser prüfen."; }
