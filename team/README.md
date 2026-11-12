@@ -8,6 +8,7 @@
 | `instagram-marketing` | Sami | Redaktionsplan, Posts/Reels, Captions, Community |
 | `sekretaerin` | Clara | Hält dich über jeden Schritt auf dem Laufenden: Briefings, Logbuch, To-dos, Wiedervorlagen |
 | `berater` | Dr. Henrik Brandt | Strategischer Berater: Preise, Wachstum, Personal, Prozesse, Risiken |
+| `preis-scout` | Felix | Sammelt Konkurrenzpreise mit Quelle und vergleicht sie mit unseren |
 
 Die Agenten liegen in `.claude/agents/` und stehen in Claude Code automatisch zur Verfügung.
 

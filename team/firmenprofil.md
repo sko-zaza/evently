@@ -25,7 +25,7 @@ Wir übernehmen für Onlineshops und B2B-Händler alles nach der Bestellung:
 **Wichtig:** Sko Logistik hat **keine eigenen Fahrer** und macht keine Transporte/Touren. Der Versand läuft über Paketdienste/Speditionen.
 
 ## Unsere Stärken (USP)
-1. **Persönlicher Ansprechpartner, 24/7:** Jeder Kunde bekommt einen festen, persönlichen Mitarbeiter zugeteilt, der rund um die Uhr für ihn da ist.
+1. **Persönlicher Ansprechpartner, 24/7 – kostenlos inklusive:** Jeder Kunde bekommt einen festen, persönlichen Mitarbeiter zugeteilt, der rund um die Uhr für ihn da ist. Dafür wird nichts extra berechnet.
 2. **Versand innerhalb von 24 Stunden** nach Bestelleingang.
    - Hinweis: Auf der Website steht „Versand am selben Tag bis [Uhrzeit]“. Bis das geklärt ist, versprechen die Agenten nur **„Versand innerhalb von 24 Stunden“**.
 3. **Warenkontrolle vor dem Versand:** Wareneingang wird mit dem Lieferschein abgeglichen, Schäden mit Fotos dokumentiert, jede Bestellung wird vor dem Verschließen noch einmal geprüft.

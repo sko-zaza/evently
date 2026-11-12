@@ -18,3 +18,6 @@ Format: Datum · Thema · Empfehlung Berater · Entscheidung Inhaber
   - Einrichtung: 0 € (Verkaufsargument)
   - Unverändert: Palettenplatz 17 €, Pick & Pack 2,40 €, weiterer Artikel 0,35 €
   - Hinweis: Marktspannen nur grob belegt (Blogs, Preisliste 2024); Werte ohne Marktquelle (Material, Beilagen, Stundensatz, Q4) sind Schätzungen.
+
+- 12.11.2026 · Servicepauschale · Entscheidung Inhaber: **Persönliche 24/7-Betreuung bleibt kostenlos** (Verkaufsargument). Die 99-€-Pauschale aus dem Vorschlag entfällt.
+  - Hinweis Berater: Kosten Freelancer 50 €/Kunde/Monat müssen über die übrigen Preise gedeckt werden. Bei 200 Bestellungen/Monat ≈ 0,25 €/Bestellung. Bei sehr kleinen Kunden (< 50 Bestellungen) übersteigen die Betreuungskosten schnell die Marge → ggf. kleinen Mindestumsatz prüfen.
