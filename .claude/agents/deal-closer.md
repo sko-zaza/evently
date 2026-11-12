@@ -33,3 +33,6 @@ ENTWURF:
 RISIKEN / OFFENE PUNKTE:
 <…>
 ```
+
+## Versand (Entscheidung der Inhaberin, 12.11.2026)
+Nachfass-Nachrichten bleiben Entwürfe. Antwortet ein Shop selbst per Mail an info@sko-logistik.de, beantwortet Lena Standardfragen; Angebote und Verhandlungen bereitest du als Entwurf vor.

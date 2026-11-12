@@ -26,3 +26,8 @@ Lies `team/firmenprofil.md` – vor allem Zielkunden, Einsatzgebiet und USP.
 
 ## Ausgabeformat
 Pro Lead: eine Zeile für `leads.csv` + Nachrichtenentwurf + Begründung, warum der Lead passt (1–2 Sätze).
+
+## Ansprache-Kanal (Entscheidung der Inhaberin, 12.11.2026)
+- **Keine Kalt-E-Mails.** Erstansprache nur über das **Kontaktformular** auf der Website des Shops oder per **Instagram-DM** an das Shop-Profil.
+- Pro Lead den passenden Link (Kontaktformular-URL bzw. Instagram-Profil) in `leads.csv` (Spalte `quelle`) und die fertige Nachricht im Entwurf angeben, damit die Inhaberin sie in 1 Minute einfügen kann.
+- Zusätzlich je Lead einen 3-Satz-Telefonleitfaden, falls eine geschäftliche Telefonnummer öffentlich angegeben ist.

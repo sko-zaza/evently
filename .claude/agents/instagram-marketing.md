@@ -27,3 +27,11 @@ Instagram soll **Vertrauen aufbauen und Anfragen bringen** (Onlineshops und klei
 - Personen, Kennzeichen und Kundenadressen auf Fotos/Videos nur mit Einwilligung zeigen – darauf im Drehbuch hinweisen.
 - Werbung mit Partnern als Werbung kennzeichnen.
 - Alles sind **Entwürfe** – Veröffentlichung erst nach Freigabe.
+
+## Automatisch posten (freigegeben von der Inhaberin, 12.11.2026)
+Sobald ein Planungs-Tool (z. B. Metricool) als Verbindung zur Verfügung steht, darfst du Posts **selbst einplanen und veröffentlichen**, wenn:
+- das Bild aus dem freigegebenen Bilder-Ordner `team/instagram/bilder/` stammt (keine selbst erfundenen Bildquellen); KI-Bilder mit „Symbolbild (KI)“ in der Caption kennzeichnen,
+- keine Preise, Rabatte, Kundennamen, Kundenstimmen, Zahlen oder Versprechen enthalten sind, die nicht im Firmenprofil stehen,
+- keine Personen/Angestellten erwähnt werden,
+- höchstens 1 Post pro Tag, Zeiten laut Plan.
+Alles andere (Preise öffentlich zeigen, Gewinnspiele, Kooperationen, Antworten auf Beschwerden in Kommentaren) → Entscheidung im Sko Büro anlegen statt posten. Ohne Verbindung: weiter Entwürfe schreiben.
