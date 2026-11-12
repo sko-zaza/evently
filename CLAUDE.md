@@ -12,6 +12,12 @@ Schreibe dafür mit dem `ArtifactData`-Tool (url = obige Adresse) in die Datenba
 - Vor jedem Überschreiben das Dokument lesen und `if_version` mitgeben. Mehrere Writes als `batch`.
 - `aktivitaet` klein halten: ältere Einträge als die neuesten 100 löschen.
 
+### Aufträge aus dem Büro
+Die Inhaberin kann Agenten im Büro Aufträge geben. Sie liegen in der Collection `auftraege` als `{agent, text, zeit, offen: true}`.
+- **Zu Beginn jedes Laufs:** offene Aufträge für die eigene Agent-ID lesen (`query` mit `agent == <id>` und `offen == true`) und **zuerst** erledigen – im Rahmen der eigenen Rolle und Regeln (nur Entwürfe, nichts versenden).
+- Danach den Auftrag auf `offen: false` setzen, `erledigt: <ISO-Zeit>` und `ergebnis: "<1 Satz>"` ergänzen, und das Ergebnis zusätzlich in `aktivitaet` eintragen.
+- Gesprächsverläufe stehen in `chats/<id>` (Feld `messages`) – nur lesen, nicht ändern.
+
 Agent-IDs: `clara` (sekretaerin), `henrik` (berater), `lena` (kundenservice), `jonas` (kundengewinnung), `mara` (deal-closer), `sami` (instagram-marketing), `felix` (preis-scout).
 
 Texte im Büro: kurz, Deutsch, keine Kundendaten außer Firmennamen, nichts über Angestellte.
