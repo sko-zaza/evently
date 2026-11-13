@@ -24,3 +24,4 @@ Format: Datum · Thema · Empfehlung Berater · Entscheidung Inhaber
   - Hinweis Berater: Prüfen, ob 24/7-Erreichbarkeit mit diesem Freelancer bei wachsender Kundenzahl realistisch ist (Vertretung, Reaktionszeit) und ob die Zusammenarbeit rechtlich sauber ist (Scheinselbstständigkeit, ggf. Steuerberater fragen).
 
 - 13.11.2026 · Instagram · Entscheidung Inhaberin: Sami darf eigene Canva-Grafiken und die 9 Startprofil-Posts automatisch posten.
+- 13.11.2026 · Preisliste · Inhaberin wählt Henriks bereinigte Fassung: Fachboden 2,00 €, Retoure 2,90 €, kein Q4-Zuschlag 2026 (übrige Posten wie Vorschlag).
