@@ -6,7 +6,7 @@ Format: Datum · Thema · Empfehlung Berater · Entscheidung Inhaber
 - **Empfehlung Berater (Dr. Brandt):** Kernpreise sind marktüblich (Palette 17 € ≈ oberes Mittelfeld von ca. 8–25 €; Pick & Pack 2,40 € im Rahmen von ca. 0,80–4,00 €; weiterer Artikel 0,35 € Mitte von ca. 0,15–0,60 €; Retoure 2,90 € unteres Mittelfeld von ca. 2–5 €). Nicht senken. Stattdessen fehlende Posten ergänzen: Wareneingang (pro Palette/Karton), Fachbodenplatz, Verpackungsmaterial, Inventur/Sonderleistungen, monatliche Mindest- bzw. Servicepauschale für die 24/7-Betreuung. Retoure mit Fotodoku ggf. auf ca. 3,50 € anheben. Konkrete Zusatzpreise vorher mit eigener Kostenkalkulation prüfen (Spannen sind Schätzungen aus Ratgeber-Quellen, keine Angebote).
 - **Entscheidung Inhaber:** offen
 
-- 12.11.2026 · Preisliste komplett (Vorschlag Berater) · Entscheidung Inhaber: offen
+- 12.11.2026 · Preisliste komplett (Vorschlag Berater) · Entscheidung Inhaber: **freigegeben am 13.11.2026** (ohne Servicepauschale – 24/7-Betreuung kostenlos)
   - Servicepauschale „Persönliche 24/7-Betreuung“: 99 €/Monat je Kunde (Kosten Freelancer 50 € – Annahme je Kunde/Monat war falsch, siehe unten; deckt zusätzlich KI-Agent, Verwaltung, Ausfälle). Einstieg für sehr kleine Shops (< 100 Bestellungen/Monat): 69 €.
   - Wareneingang: 6,50 €/Palette · 2,50 €/Karton
   - Fachbodenplatz: 2,50 €/Monat · Kleinteilfach: 1,00 €/Monat
@@ -22,3 +22,5 @@ Format: Datum · Thema · Empfehlung Berater · Entscheidung Inhaber
 - 12.11.2026 · Servicepauschale · Entscheidung Inhaber: **Persönliche 24/7-Betreuung bleibt kostenlos** (Verkaufsargument). Die 99-€-Pauschale aus dem Vorschlag entfällt.
   - Korrektur: Freelancer kostet **50 € pro Monat insgesamt** (nicht pro Kunde). Die Kosten sind damit vernachlässigbar, kein Mindestumsatz nötig.
   - Hinweis Berater: Prüfen, ob 24/7-Erreichbarkeit mit diesem Freelancer bei wachsender Kundenzahl realistisch ist (Vertretung, Reaktionszeit) und ob die Zusammenarbeit rechtlich sauber ist (Scheinselbstständigkeit, ggf. Steuerberater fragen).
+
+- 13.11.2026 · Instagram · Entscheidung Inhaberin: Sami darf eigene Canva-Grafiken und die 9 Startprofil-Posts automatisch posten.

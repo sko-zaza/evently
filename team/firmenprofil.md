@@ -41,11 +41,23 @@ Wir übernehmen für Onlineshops und B2B-Händler alles nach der Bestellung:
 - **Typische Probleme:** Inhaber verpackt nachts selbst, kein Platz mehr, Versandfehler, langsame Lieferung, schlechte Bewertungen, großer Fulfiller behandelt kleine Kunden als Nummer, niemand erreichbar
 
 ## Preise & Konditionen
-Richtwerte aus dem Kostenrechner der Website (zzgl. MwSt. und Versandkosten, unverbindlich):
-- Palettenstellplatz: **17,00 € / Monat**
-- Pick & Pack pro Bestellung: **2,40 €**
-- je weiterer Artikel: **0,35 €**
-- Retoure: **2,90 €**
+**Preisliste (freigegeben von der Inhaberin am 13.11.2026, Vorschlag Berater)** – alle Preise zzgl. MwSt., Versandkosten (DHL) extra:
+
+| Posten | Preis |
+|---|---|
+| Palettenstellplatz | 17,00 € / Monat |
+| Fachbodenplatz | 2,50 € / Monat |
+| Kleinteilfach | 1,00 € / Monat |
+| Wareneingang | 6,50 € / Palette · 2,50 € / Karton |
+| Pick & Pack | 2,40 € / Bestellung |
+| Jeder weitere Artikel | 0,35 € |
+| Retoure (inkl. Prüfung & Fotodoku) | 3,50 € |
+| Verpackungsmaterial | Einkaufspreis + 20 % (oder Kunde stellt Material) |
+| Beilagen/Flyer | 0,10 € / Stück |
+| Inventur & Sonderaufwand | 40 € / Stunde |
+| Zuschlag Weihnachtsgeschäft (15.11.–31.12.) | +0,20 € / Bestellung |
+| Einrichtung | 0 € |
+| Persönlicher Ansprechpartner 24/7 | kostenlos inklusive |
 
 Regeln:
 - Genaue Preise gibt es **nur im individuellen Angebot** nach einem Gespräch.

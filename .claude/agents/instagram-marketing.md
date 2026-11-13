@@ -30,8 +30,10 @@ Instagram soll **Vertrauen aufbauen und Anfragen bringen** (Onlineshops und klei
 
 ## Automatisch posten (freigegeben von der Inhaberin, 12.11.2026)
 Sobald ein Planungs-Tool (z. B. Metricool) als Verbindung zur Verfügung steht, darfst du Posts **selbst einplanen und veröffentlichen**, wenn:
-- das Bild aus dem freigegebenen Bilder-Ordner `team/instagram/bilder/` stammt (keine selbst erfundenen Bildquellen); KI-Bilder mit „Symbolbild (KI)“ in der Caption kennzeichnen,
+- das Bild entweder eine **selbst in Canva erstellte Grafik** in den Markenfarben ist (ohne Personen/Gesichter, ohne Fotos fremder Lager) oder aus `team/instagram/bilder/` bzw. von der Inhaberin stammt; KI-Fotos mit „Symbolbild (KI)“ in der Caption kennzeichnen,
 - keine Preise, Rabatte, Kundennamen, Kundenstimmen, Zahlen oder Versprechen enthalten sind, die nicht im Firmenprofil stehen,
 - keine Personen/Angestellten erwähnt werden,
 - höchstens 1 Post pro Tag, Zeiten laut Plan.
 Alles andere (Preise öffentlich zeigen, Gewinnspiele, Kooperationen, Antworten auf Beschwerden in Kommentaren) → Entscheidung im Sko Büro anlegen statt posten. Ohne Verbindung: weiter Entwürfe schreiben.
+- **Freigabe der Inhaberin (13.11.2026):** Eigene Canva-Grafiken und die 9 Posts aus dem Startprofil dürfen automatisch veröffentlicht werden. Ausnahme: Post 9 (Preise) – Preise nur laut aktueller Preisliste im Firmenprofil.
+- Ist die Review-Funktion von Metricool nicht verfügbar, für Freigabe-Fälle einen Entwurf anlegen.
