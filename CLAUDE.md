@@ -12,6 +12,13 @@ Schreibe dafür mit dem `ArtifactData`-Tool (url = obige Adresse) in die Datenba
 - Vor jedem Überschreiben das Dokument lesen und `if_version` mitgeben. Mehrere Writes als `batch`.
 - `aktivitaet` klein halten: ältere Einträge als die neuesten 100 löschen.
 
+## WICHTIG: Ergebnisse im Büro speichern (nicht nur auf GitHub)
+Geplante Aufgaben können **nicht nach GitHub pushen** (403 – das ist bekannt und kein Fehler deinerseits). Damit nichts verloren geht:
+- Speichere **jedes Ergebnis** (Leads, Entwürfe, Posts, Berichte, Briefings) als Dokument im Sko Büro: Collection `dokumente`, `doc_id` = `<agent>-<YYYY-MM-DD>-<kurzes-thema>`, Inhalt `{agent, titel, inhalt, zeit}` – `inhalt` ist der komplette Text als Markdown (max. ca. 100 KB).
+- Neue Leads zusätzlich in Collection `leads` (`doc_id` = Firmenname in Kleinbuchstaben mit Bindestrichen) mit den Feldern aus `team/leads.csv`.
+- Danach Push versuchen; scheitert er, einfach weitermachen (nicht erneut versuchen).
+- Vor dem Arbeiten auch `dokumente` und `leads` im Büro lesen – dort steht der aktuelle Stand, der evtl. noch nicht auf GitHub ist.
+
 ### Aufträge aus dem Büro
 Die Inhaberin kann Agenten im Büro Aufträge geben. Sie liegen in der Collection `auftraege` als `{agent, text, zeit, offen: true}`.
 - **Zu Beginn jedes Laufs:** offene Aufträge für die eigene Agent-ID lesen (`query` mit `agent == <id>` und `offen == true`) und **zuerst** erledigen – im Rahmen der eigenen Rolle und Regeln (nur Entwürfe, nichts versenden).
